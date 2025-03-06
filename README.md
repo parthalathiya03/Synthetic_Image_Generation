@@ -1,5 +1,5 @@
 # Synthetic_Image_Generation
-Generate synthetic images using Stable Diffusion, perform basic image preprocessing, and set up a minimal Flux-based neural network to process an image (via a forward pass).
+Generate synthetic images using Stable Diffusion, perform image preprocessing, and set up a minimal Flux-based neural network to process an image (via a forward pass).
 
 
 # Synthetic Image Generation, Preprocessing, and Flux Forward Pass
