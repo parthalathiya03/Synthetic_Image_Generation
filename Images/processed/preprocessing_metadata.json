@@ -1,0 +1,45 @@
+{
+  "preprocessing_info": {
+    "resize": [
+      224,
+      224
+    ],
+    "normalize": true,
+    "grayscale": false
+  },
+  "images": {
+    "processed_generated_image_3.npy": {
+      "original_path": "images/raw/generated_image_3.png",
+      "processed_path": "images/processed/processed_generated_image_3.npy",
+      "visualization_path": "images/processed/vis_generated_image_3.png",
+      "tensor_shape": [
+        224,
+        224,
+        3
+      ],
+      "channels": 3
+    },
+    "processed_generated_image_2.npy": {
+      "original_path": "images/raw/generated_image_2.png",
+      "processed_path": "images/processed/processed_generated_image_2.npy",
+      "visualization_path": "images/processed/vis_generated_image_2.png",
+      "tensor_shape": [
+        224,
+        224,
+        3
+      ],
+      "channels": 3
+    },
+    "processed_generated_image_1.npy": {
+      "original_path": "images/raw/generated_image_1.png",
+      "processed_path": "images/processed/processed_generated_image_1.npy",
+      "visualization_path": "images/processed/vis_generated_image_1.png",
+      "tensor_shape": [
+        224,
+        224,
+        3
+      ],
+      "channels": 3
+    }
+  }
+}
