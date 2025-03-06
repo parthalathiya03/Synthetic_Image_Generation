@@ -10,9 +10,8 @@ This project demonstrates a complete pipeline for generating synthetic images us
 
 ```
 project/
-├── image_generation.py      # Python script for Stable Diffusion image generation
-├── image_preprocessing.py   # Python script for image preprocessing
-├── flux_forward_pass.jl     # Julia script for Flux model forward pass
+├── image_generation.py      # Python script for Stable Diffusion image generation, Python script for image preprocessing and Julia script for 
+                               Flux model forward pass
 ├── images/                 # Directory for generated images
 │   └── raw/                # Raw generated images
 │   └── processed/          # Preprocessed images
